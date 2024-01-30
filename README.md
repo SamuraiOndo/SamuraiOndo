@@ -11,7 +11,7 @@ Here's a bit more info about me:
 <a href="https://twitter.com/heheviolet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="heheviolet" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuraiondo&show_icons=true&locale=en&layout=compact" alt="samuraiondo" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=samuraiondo&show_icons=true&locale=en&layout=compact" alt="samuraiondo" /></p>
 
 
 
